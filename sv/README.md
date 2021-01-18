@@ -7,4 +7,5 @@ Studieguide for Klass B Körkort
 1. [Kapitel 3 - Styre](ch03.md)
 1. [Kapitel 4 - Broms](ch04.md)
 1. [Kapitel 5 - Barn i Bilen](ch05.md)
+1. [Kapitel 6 - Bilens Lägnd och Bredd](ch06.md)
 
