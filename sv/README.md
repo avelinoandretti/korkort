@@ -10,4 +10,7 @@ Studieguide for Klass B Körkort
 1. [Kapitel 6 - Bilens Längd och Bredd](ch06.md)
 1. [Kapitel 7 - Last- och Släpvagn](ch07.md)
 1. [Kapitel 8 - Lysen](ch08.md)
+1. [Kapitel 9 - Kontroll av Bilen](ch09.md)
+1. [Kapitel 10 - Kontrollbesiktning](ch10.md)
+1. [Kapitel 11 - Bilens Delar](ch11.md)
 
