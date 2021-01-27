@@ -13,4 +13,6 @@ Studieguide for Klass B Körkort
 1. [Kontroll av Bilen](ch09.md)
 1. [Kontrollbesiktning](ch10.md)
 1. [Bilens Delar](ch11.md)
+1. [Registreringsbevis](ch12.md)
+1. [Bilförsäkring](ch13.md)
 
