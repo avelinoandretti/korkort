@@ -1,6 +1,6 @@
 # Svenska Körkort Studieguide
 
-Studieguide for Klass B Körkort
+Studieguide för Klass B Körkort
 
 1. [Fordon](ch01.md)
 1. [Däck](ch02.md)
