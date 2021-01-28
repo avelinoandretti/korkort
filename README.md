@@ -1,12 +1,20 @@
 # Körkort
 
-__Körkort Studieguide i markdown__
+__Körkort Studieguide i Markdown__
 
 __Swedish driving license study guide in Markdown__
 
-__Guia de estudia para licencia de manejo sueca en Markdown__
+__Guia de estudio para licencia de manejo sueca en Markdown__
 
 The purpose is to create a community based study guides in several languages.
+
+Contributions are welcome as I'm not native speaker of all of these languages.
+ * Style
+ * Grammar
+ * Spelling
+ * Content
+ * Corrections
+ * New Languages
 
 The guide is organized as follows:
  * A directory for each language (using ISO-IEC standard)
