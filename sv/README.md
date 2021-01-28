@@ -15,4 +15,6 @@ Studieguide for Klass B Körkort
 1. [Bilens Delar](ch11.md)
 1. [Registreringsbevis](ch12.md)
 1. [Bilförsäkring](ch13.md)
+1. [Bilen och Miljö](ch14.md)
+1. [Ekodriving](ch15.md)
 
