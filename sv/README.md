@@ -17,4 +17,5 @@ Studieguide for Klass B Körkort
 1. [Bilförsäkring](ch13.md)
 1. [Bilen och Miljö](ch14.md)
 1. [Ekodriving](ch15.md)
+1. [Miljöanpassad Bil](ch16.md)
 
