@@ -18,4 +18,7 @@ Studieguide för Klass B Körkort
 1. [Bilen och Miljö](ch14.md)
 1. [Ekodriving](ch15.md)
 1. [Miljöanpassad Bil](ch16.md)
+1. [Bransle](ch17.md)
+1. [Föroreningar](ch18.md)
+1. [Trafikolyckor](ch19.md)
 
