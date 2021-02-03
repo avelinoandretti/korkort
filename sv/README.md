@@ -21,4 +21,8 @@ Studieguide för Klass B Körkort
 1. [Bransle](ch17.md)
 1. [Föroreningar](ch18.md)
 1. [Trafikolyckor](ch19.md)
+1. [Övergångställe](ch20.md)
+1. [Barn](ch21.md)
+1. [Vinter- och Halkkörning](ch22.md)
+1. [Stoppsträcka](ch23.md)
 
