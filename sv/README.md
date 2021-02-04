@@ -26,4 +26,4 @@ Studieguide för Klass B Körkort
 1. [Vinter- och Halkkörning](ch22.md)
 1. [Stoppsträcka](ch23.md)
 1. [Viltolyckor](ch24.md)
-1. [Olyckorstatistik](ch25.md)
+1. [Olycksstatistik](ch25.md)
