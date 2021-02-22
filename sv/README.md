@@ -27,3 +27,5 @@ Studieguide för Klass B Körkort
 1. [Stoppsträcka](ch23.md)
 1. [Viltolyckor](ch24.md)
 1. [Olycksstatistik](ch25.md)
+1. [Trafikens Grundregler](ch26.md)
+1. [Körfält](ch27.md)
