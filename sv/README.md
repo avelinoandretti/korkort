@@ -31,3 +31,5 @@ Studieguide för Klass B Körkort
 1. [Körfält](ch27.md)
 1. [Regler i Trafiken](ch28.md)
 1. [Cyklister](ch29.md)
+1. [Cirkulationsplats](ch30.md)
+1. [Stanna och Parkera](ch31.md)
