@@ -35,3 +35,4 @@ Studieguide för Klass B Körkort
 1. [Stanna och Parkera](ch31.md)
 1. [Landsvägar](ch32.md)
 1. [Motorväg och Motortrafikled](ch33.md)
+1. [Omkörningen](ch34.md)
