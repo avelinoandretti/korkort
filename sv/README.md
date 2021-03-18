@@ -37,5 +37,6 @@ Studieguide för Klass B Körkort
 1. [Motorväg och Motortrafikled](ch33.md)
 1. [Omkörningen](ch34.md)
 1. [Järnväg](ch35.md)
-1. [Köra Bil Utomlands](ch65.md)
-1. [Vägmärken](ch65.md)
+1. [Köra Bil Utomlands](ch36.md)
+1. [Vägmärken](ch37.md)
+1. [Personliga Förutsättningar](ch38.md)
