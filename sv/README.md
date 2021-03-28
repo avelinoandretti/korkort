@@ -42,3 +42,4 @@ Studieguide för Klass B Körkort
 1. [Personliga Förutsättningar](ch38.md)
 1. [Alkohol, Droger och Läkemedel i Trafiken](ch39.md)
 1. [Trötthet](ch40.md)
+1. [Synen](ch41.md)
