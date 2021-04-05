@@ -43,3 +43,4 @@ Studieguide för Klass B Körkort
 1. [Alkohol, Droger och Läkemedel i Trafiken](ch39.md)
 1. [Trötthet](ch40.md)
 1. [Synen](ch41.md)
+1. [Nedsatt Förmåga i Trafiken](ch41.md)
