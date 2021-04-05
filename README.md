@@ -35,7 +35,7 @@ The guide is organized as follows:
  
 # Study Guides
  
- * [Swedish/Svenska](sv/)
+ * [Swedish/Svenska](sv/README.md)
   
 # License and Copyleft
 
